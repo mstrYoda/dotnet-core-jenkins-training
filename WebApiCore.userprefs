@@ -1,13 +1,8 @@
 ﻿<Properties StartupConfiguration="{38786D19-831B-4FC1-A9DF-FDEFD27C798E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApiCore/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApiCore/Repositories/Impl/Repository.cs">
     <Files>
-      <File FileName="WebApiCore/Controllers/ValuesController.cs" Line="5" Column="1" />
-      <File FileName="WebApiCore/Models/User.cs" Line="15" Column="1" />
-      <File FileName="WebApiCore/Tests/UserServiceTests.cs" Line="16" Column="9" />
-      <File FileName="WebApiCore/Startup.cs" Line="37" Column="35" />
-      <File FileName="WebApiCore/Service/UserService.cs" Line="8" Column="10" />
-      <File FileName="WebApiCore/Repositories/Impl/Repository.cs" Line="36" Column="10" />
-      <File FileName="WebApiCore/Program.cs" Line="1" Column="1" />
+      <File FileName="WebApiCore/Controllers/ValuesController.cs" Line="16" Column="10" />
+      <File FileName="WebApiCore/Repositories/Impl/Repository.cs" Line="44" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

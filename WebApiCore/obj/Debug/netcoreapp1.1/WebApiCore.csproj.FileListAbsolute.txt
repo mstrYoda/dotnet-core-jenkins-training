@@ -4,7 +4,6 @@
 /Users/macbook/Projects/WebApiCore/WebApiCore/bin/Debug/netcoreapp1.1/WebApiCore.dll
 /Users/macbook/Projects/WebApiCore/WebApiCore/bin/Debug/netcoreapp1.1/WebApiCore.pdb
 /Users/macbook/Projects/WebApiCore/WebApiCore/obj/Debug/netcoreapp1.1/WebApiCore.csprojResolveAssemblyReference.cache
-/Users/macbook/Projects/WebApiCore/WebApiCore/obj/Debug/netcoreapp1.1/WebApiCore.csproj.CoreCompileInputs.cache
 /Users/macbook/Projects/WebApiCore/WebApiCore/obj/Debug/netcoreapp1.1/WebApiCore.AssemblyInfo.cs
 /Users/macbook/Projects/WebApiCore/WebApiCore/obj/Debug/netcoreapp1.1/WebApiCore.dll
 /Users/macbook/Projects/WebApiCore/WebApiCore/obj/Debug/netcoreapp1.1/WebApiCore.pdb
@@ -155,3 +154,4 @@
 /Users/macbook/Projects/WebApiCore/WebApiCore/bin/Debug/netcoreapp1.1/xunit.execution.dotnet.dll
 /Users/macbook/Projects/WebApiCore/WebApiCore/bin/Debug/netcoreapp1.1/Castle.Core.dll
 /Users/macbook/Projects/WebApiCore/WebApiCore/bin/Debug/netcoreapp1.1/Moq.dll
+/Users/macbook/Projects/WebApiCore/WebApiCore/obj/Debug/netcoreapp1.1/WebApiCore.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+/Users/macbook/Projects/WebApiCore/build/WebApiCore.deps.json
+/Users/macbook/Projects/WebApiCore/build/WebApiCore.runtimeconfig.json
+/Users/macbook/Projects/WebApiCore/build/WebApiCore.runtimeconfig.dev.json
+/Users/macbook/Projects/WebApiCore/WebApiCore/obj/Release/netcoreapp1.1/WebApiCore.AssemblyInfo.cs
