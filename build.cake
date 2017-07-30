@@ -3,6 +3,7 @@ var configuration = Argument("configuration", "Release");
  
 ///    Build Variables
 var projDir = "./WebApiCore/";
+var testDir = "./WebApiCore.Tests/WebApiCore.Tests.csproj";
 var binDir = String.Concat(projDir, "bin");
 var projJson = String.Concat(projDir, "project.json");
 var solutionFile = "WebApiCore.sln";
@@ -19,7 +20,14 @@ Task("Build").Does(() =>{
     DotNetCoreBuild(projDir, buildSettings);
 });
 
+Task("Test")
+    .IsDependentOn("Build")
+    .Does(() =>
+    {
+        DotNetCoreTest(testDir);
+    });
+
 Task("Default")
-    .IsDependentOn("Build");
+    .IsDependentOn("Test");
 
 RunTarget(target);

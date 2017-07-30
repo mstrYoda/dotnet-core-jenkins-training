@@ -1,0 +1,13 @@
+/Users/macbook/Projects/WebApiCore/WebApiCore.Tests/bin/Debug/netcoreapp1.1/WebApiCore.Tests.deps.json
+/Users/macbook/Projects/WebApiCore/WebApiCore.Tests/bin/Debug/netcoreapp1.1/WebApiCore.Tests.runtimeconfig.json
+/Users/macbook/Projects/WebApiCore/WebApiCore.Tests/bin/Debug/netcoreapp1.1/WebApiCore.Tests.runtimeconfig.dev.json
+/Users/macbook/Projects/WebApiCore/WebApiCore.Tests/obj/Debug/netcoreapp1.1/WebApiCore.Tests.AssemblyInfo.cs
+/Users/macbook/Projects/WebApiCore/WebApiCore.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/macbook/Projects/WebApiCore/WebApiCore.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/macbook/Projects/WebApiCore/WebApiCore.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/macbook/Projects/WebApiCore/WebApiCore.Tests/bin/Debug/netcoreapp1.1/WebApiCore.Tests.dll
+/Users/macbook/Projects/WebApiCore/WebApiCore.Tests/bin/Debug/netcoreapp1.1/WebApiCore.Tests.pdb
+/Users/macbook/Projects/WebApiCore/WebApiCore.Tests/bin/Debug/netcoreapp1.1/WebApiCore.dll
+/Users/macbook/Projects/WebApiCore/WebApiCore.Tests/bin/Debug/netcoreapp1.1/WebApiCore.pdb
+/Users/macbook/Projects/WebApiCore/WebApiCore.Tests/obj/Debug/netcoreapp1.1/WebApiCore.Tests.dll
+/Users/macbook/Projects/WebApiCore/WebApiCore.Tests/obj/Debug/netcoreapp1.1/WebApiCore.Tests.pdb
