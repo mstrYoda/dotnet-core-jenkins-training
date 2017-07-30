@@ -34,7 +34,7 @@ namespace WebApiCore.Repositories
 
         public IQueryable<T> FindBy(Expression<Func<T, bool>> predicate)
         {
-            return dbSet.Find(predicate);
+            throw new NotImplementedException();
         }
 
         public IQueryable<T> GetAll()
